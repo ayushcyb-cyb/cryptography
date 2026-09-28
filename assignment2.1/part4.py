@@ -16,3 +16,4 @@ for number in range(4):
 print("\nCryptographic PRNG:") 
 for number in range(4): 
     print(number, crypto_count[number])
+
